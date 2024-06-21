@@ -4,10 +4,6 @@ document.addEventListener('DOMContentLoaded', function () {
     parseCSV(); // Parse CSV data when the document is ready
 });
 
-document.addEventListener('DOMContentLoaded', function () {
-    parseCSV(); // This function now also handles initial display
-});
-
 function parseCSV() {
     const csvData = `Title,Year,Size,Genre
     101 Dalmatians,1961,1.89 GB,"Adventure, Comedy, Crime"
@@ -43,7 +39,7 @@ function parseCSV() {
     A Goofy Movie,1995,623.21 MB,"Animation, Adventure, Comedy"
     A Million Ways to Die in the West,2014,818.92 MB,"Comedy, Western"
     A Muppet Family Christmas,1987,238.78 MB,"Comedy, Family, Musical"
-    A New Hope,1977,1.16 GB," Drama"
+    A New Hope,1977,1.16 GB,"Drama"
     A Quiet Place,2018,843.45 MB,"Drama, Horror, Sci-Fi"
     A Quiet Place Part II,2020,1.79 GB,"Drama, Horror, Sci-Fi"
     A View To A Kill,1985,950.08 MB,"Action, Adventure, Thriller"
@@ -110,7 +106,7 @@ function parseCSV() {
     Batman Begins,2005,1.61 GB,"Action, Crime, Drama"
     Batman Forever,1995,1.31 GB,"Action, Adventure"
     Batman Returns,1992,1.36 GB,"Action, Crime, Fantasy"
-    Batman The Dark Knight,2008,1.70 GB," Action, Adventure, Sci-Fi"
+    Batman The Dark Knight,2008,1.70 GB,"Action, Adventure, Sci-Fi"
     Batman V Superman Dawn Of Justice,2016,861.54 MB,"Action, Adventure, Sci-Fi"
     Battleship,2012,850.79 MB,"Action, Adventure, Sci-Fi"
     Beauty And The Beast,1991,2.09 GB,"Animation, Family, Fantasy"
@@ -142,7 +138,7 @@ function parseCSV() {
     Braddock Missing In Action III,1988,1.44 GB,"Action, War"
     Braveheart,1995,1.10 GB,"Biography, Drama, War"
     Bravestarr The Legend,1988,510.95 MB,"Animation, Action, Adventure"
-    Breaker Breaker,1977,781.30 MB," Comedy, Crime"
+    Breaker Breaker,1977,781.30 MB,"Comedy, Crime"
     Brewster's Millions,1985,746.90 MB,"Comedy"
     Bridge Of Spies,2015,1.01 GB,"Drama, History, Thriller"
     Brother Bear,2003,477.39 MB,"Animation, Adventure, Comedy"
@@ -622,7 +618,7 @@ function parseCSV() {
     Scooby-Doo Meets Batman,1972,494.38 MB,"Animation, Adventure, Family"
     Scrooged,1988,927.57 MB,"Comedy, Drama, Fantasy"
     Shang-Chi And The Legend Of The Ten Rings,2021,2.44 GB,"Action, Adventure, Fantasy"
-    Shazam,2019,733.14 MB," Family"
+    Shazam,2019,733.14 MB,"Family"
     Shooter,2007,1.32 GB,"Action, Drama, Thriller"
     Shrek,2001,1018.56 MB,"Animation, Adventure, Comedy"
     Shrek 2,2004,601.19 MB,"Animation, Adventure, Comedy"
@@ -661,8 +657,8 @@ function parseCSV() {
     Star Wars Episode III - Revenge of the Sith,2005,1011.16 MB,"Action, Adventure, Fantasy"
     Star Wars Holiday Special,1978,309.37 MB,"Adventure, Family, Musical"
     Star Wars The Force Awakens,2015,835.74 MB,"Comedy"
-    Star Wars The Last Jedi,2017,752.32 MB," Action, Fantasy"
-    Star Wars The Rise of Skywalker,2019,820.31 MB," Action, Music"
+    Star Wars The Last Jedi,2017,752.32 MB,"Action, Fantasy"
+    Star Wars The Rise of Skywalker,2019,820.31 MB,"Action, Music"
     Step Brothers,2008,968.85 MB,"Comedy"
     Stillwater,2021,1.25 GB,"Crime, Drama, Mystery"
     Stitch The Movie,2003,713.90 MB,"Animation, Adventure, Comedy, Family, Sci-Fi"
@@ -674,7 +670,7 @@ function parseCSV() {
     Superman II,1980,1.37 GB,"Action, Adventure, Sci-Fi"
     Superman III,1983,1.17 GB,"Action, Adventure, Comedy"
     Superman IV,1987,853.74 MB,"Action, Adventure, Sci-Fi"
-    SWAT,2003,1.50 GB," Drama"
+    SWAT,2003,1.50 GB,"Drama"
     Tag,2018,855.61 MB,"Action, Comedy"
     Taken,2008,549.08 MB,"Action, Crime, Thriller"
     Talladega Nights The Ballad of Ricky Bobby,2006,704.94 MB,"Comedy, Sport"
@@ -690,7 +686,7 @@ function parseCSV() {
     Terminator Dark Fate,2019,1.12 GB,"Action, Adventure, Sci-Fi"
     Terminator Genisys,2015,873.87 MB,"Action, Adventure, Sci-Fi"
     The 15 17 To Paris,2018,800.95 MB,"Biography, Drama, Thriller"
-    The A Team,2010,1.60 GB," Drama, Music"
+    The A Team,2010,1.60 GB,"Drama, Music"
     The Accountant,2016,943.99 MB,"Action, Crime, Drama"
     The Addams Family,1991,759.42 MB,"Comedy, Fantasy"
     The Adventures Of Sharkboy And Lavagirl 3-D,2005,1.49 GB,"Action, Adventure, Comedy"
@@ -712,7 +708,7 @@ function parseCSV() {
     The Bourne Supremacy,2004,1.01 GB,"Action, Mystery, Thriller"
     The Bourne Ultimatum,2007,1.55 GB,"Action, Mystery, Thriller"
     The Breakfast Club,1985,602.52 MB,"Comedy, Drama"
-    The Bride Of Frankenstein,1935,685.31 MB," Horror"
+    The Bride Of Frankenstein,1935,685.31 MB,"Horror"
     The Bridge on the River Kwai,1957,996.91 MB,"Adventure, Drama, War"
     The Call Of The Wild,2020,915.53 MB,"Adventure, Drama, Family"
     The Cat In The Hat,2003,777.13 MB,"Adventure, Comedy, Family"
