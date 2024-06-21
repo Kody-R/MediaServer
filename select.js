@@ -174,7 +174,7 @@ function parseCSV() {
     Code Of Silence,1985,960.90 MB,"Action, Crime, Drama"
     Coming To America,1988,1.05 GB,"Comedy, Romance"
     Commando,1985,1.20 GB,"Action, Adventure, Thriller"
-    ConAir,1997,800.79 MB,"Music, Sport"
+    ConAir,1997,800.79 MB,"Action, Thriller "
     Conan The Barbarian,1982,951.58 MB,"Action, Adventure, Fantasy"
     Conan The Destroyer,1984,731.87 MB,"Action, Adventure, Fantasy"
     Cool Hand Luke,1967,1.02 GB,"Crime, Drama"
