@@ -487,7 +487,7 @@ function parseCSV() {
     Mission Impossible,1996,4.12 GB,"Action, Adventure, Thriller"
     Mission Impossible Dead Reckoning Part One,2023,3.06 GB,"Comedy"
     Mission Impossible Fallout,2018,5.51 GB,"Action, Adventure, Thriller"
-    Mission Impossible Ghost Protocol,2011,4.97 GB,"Short"
+    Mission Impossible Ghost Protocol,2011,4.97 GB,"Action, Adventure, Thriller"
     Mission Impossible II,2000,4.62 GB,"Action, Adventure, Thriller"
     Mission Impossible III,2006,4.69 GB,"Action, Adventure, Thriller"
     Mission Impossible Rogue Nation,2015,4.92 GB,"Action, Adventure, Thriller"
