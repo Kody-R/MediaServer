@@ -295,7 +295,7 @@ function parseCSV() {
     Glass Onion A Knives Out Mystery,2022,2.60 GB,"Mystery, Thriller"
     Godzilla,2014,868.29 MB,"Action, Adventure, Sci-Fi"
     Godzilla King Of The Monsters,2019,2.23 GB,"Action, Adventure, Fantasy"
-    Godzilla Vs Kong,2021,1.48 GB,"Short"
+    Godzilla Vs Kong,2021,1.48 GB,"Action, Adventure, Sci-Fi"
     Goldeneye,1995,1.40 GB,"Action, Adventure, Thriller"
     Goldfinger,1964,1.74 GB,"Action, Adventure, Thriller"
     Good Burger,1997,874.55 MB,"Comedy, Family"
